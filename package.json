@@ -1,0 +1,5 @@
+{ "name"          : "haven"
+, "description"		: "A functional haven for Javascript." 
+, "main"          : "haven.js"
+, "version"       : ""
+}

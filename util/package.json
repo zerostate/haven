@@ -1,0 +1,4 @@
+{ "name"          : "util"
+, "description"		: "Helper functions." 
+, "main"          : "util.js"
+}

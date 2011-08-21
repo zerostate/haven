@@ -1,0 +1,4 @@
+{ "name"          : "requiem"
+, "description"		: "A sombre Prelude" 
+, "main"          : "requiem.js"
+}
